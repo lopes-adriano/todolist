@@ -1,7 +1,7 @@
-# todolist
+# Todolist
 
-Uma simples Lista de tarefas criada utilizando JS, EJS e MongoDB.
+Uma simples lista de tarefas criada utilizando JS, EJS e MongoDB.
 
 Hospedado no [Heroku](https://thawing-shore-70324.herokuapp.com) para showcase. 
 
-![Todolist Screenshot](sample/app-screenshot.png?raw=true "App Screenshot").
+![Todolist Screenshot](sample/app-screenshot.png?raw=true "App Screenshot")
